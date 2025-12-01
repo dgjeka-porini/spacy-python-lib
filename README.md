@@ -17,7 +17,7 @@ These examples are intended for learning and reference purposes. To get started,
 	```bash
 	pip install -r requirements.txt
 	```
-3. Explore the scripts in `lib-course/c01/` to see spaCy in action.
+3. Explore the scripts in `lib-course/` to see spaCy in action.
 
 ## License
 
